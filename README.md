@@ -21,4 +21,3 @@ I'm diving into prompt engineering based on OpenAI's guidelines and making easy-
 [Prompt Engineering Tutorial 6 - Understanding Context Windows & Tokens: ](https://youtu.be/bBH8sQd_mfs)
 
 I’d love your feedback and questions. Thanks for watching!
-#openai #chatgpt #prmoptengineering #python
