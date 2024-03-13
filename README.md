@@ -20,4 +20,6 @@ I'm diving into prompt engineering based on OpenAI's guidelines and making easy-
 
 [Prompt Engineering Tutorial 6 - Understanding Context Windows & Tokens: ](https://youtu.be/bBH8sQd_mfs)
 
+The sample code I used in the videos is available in this GitHub repository. Please look in the folders.
+
 I’d love your feedback and questions. Thanks for watching!
